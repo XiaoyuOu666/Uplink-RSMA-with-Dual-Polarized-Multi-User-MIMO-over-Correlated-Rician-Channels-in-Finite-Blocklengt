@@ -15,3 +15,5 @@ cvxpy==1.6.5
 mosek==11.2.3
 openpyxl==3.1.5
 
+If you in any way use our code, please also cite our original paper.
+
